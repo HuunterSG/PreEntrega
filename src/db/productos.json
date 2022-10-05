@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "name": "sprite",
+      "description": "gaseosa",
+      "code": "AA001",
+      "price": 400,
+      "stock": 10,
+      "img":"urls"
+    },
+    {
+      "id": 2,
+      "name": "Coca-Cola",
+      "description": "gaseosa",
+      "code": "AA001",
+      "price": 200,
+      "stock": 12,
+      "img":"urls"
+    },
+    {
+      "id": 3,
+      "name": "Fernet",
+      "description": "bebida alcoholica",
+      "code": "AA001b",
+      "price": 1000,
+      "stock": 15,
+      "img":"urls"
+    },
+    {
+      "id": 4,
+      "name": "Gancia",
+      "description": "bebida alcoholica",
+      "code": "AA001b",
+      "price": 900,
+      "stock": 10,
+      "img":"urls"
+    },
+    {
+      "id": 5,
+      "name": "Gin",
+      "description": "bebida alcoholica",
+      "code": "AA001b",
+      "price": 900,
+      "stock": 8,
+      "img":"urls"
+    },
+    {
+      "id": 6,
+      "name": "Andes IPA",
+      "description": "bebida alcoholica",
+      "code": "AA001b",
+      "price": 450,
+      "stock": 100,
+      "img":"urls"
+    },
+    {
+      "id": 7,
+      "name": "fanta",
+      "description": "gaseosa",
+      "code": "AA001",
+      "price": "200",
+      "stock": 150,
+      "img":"urls"
+    },
+    {
+      "name": "agua",
+      "description": "agua mineral",
+      "price": "300",
+      "code": "AA001",
+      "id": 8,
+      "stock": 129,
+      "img":"urls"
+    },
+    {
+      "name": "soda",
+      "description": "agua mineral altamente gasificada",
+      "code": "AA001",
+      "img": "urls",
+      "price": 100,
+      "stock": 300,
+      "id": 9,
+      "timestamp": "14/7/2022 21:02:08"
+    }
+  ]
